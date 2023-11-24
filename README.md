@@ -39,11 +39,10 @@ The initial steps involving Couchbase and Apache NiFi ETL workflows are part of 
 Users are encouraged to focus on the data cleaning, data warehousing, and SQL analysis aspects of the project.
 
 References and Citation for the data source:
-Dataset:  Antczak, T., & Weron, R. (2019). Point of Sale (POS) Data from a Supermarket: Transactions and Cashier Operations. Data, 4(2), 67. Available at: https://www.mdpi.com/2306-5729/4/2/67![image](https://github.com/Priya-DataAnalyst/Datawarehouse-POS-Data-Analysis/assets/151241746/a41fc9a4-3bb3-4f5b-acba-0f14bff84110)
+Dataset:  Antczak, T., & Weron, R. (2019). Point of Sale (POS) Data from a Supermarket: Transactions and Cashier Operations. Data, 4(2), 67. Available at: https://www.mdpi.com/2306-5729/4/2/67
 
 MDPI and ACS Style
 Antczak, T.; Weron, R. Point of Sale (POS) Data from a Supermarket: Transactions and Cashier Operations. Data 2019, 4, 67. https://doi.org/10.3390/data4020067
-![image](https://github.com/Priya-DataAnalyst/Datawarehouse-POS-Data-Analysis/assets/151241746/758a6df8-cdf0-437e-8a56-148f2f687fb6)
 
 Contributing:
 
